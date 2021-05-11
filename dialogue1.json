@@ -18,14 +18,14 @@
     "searchOrInstal" : "search",
     "keywordSearch" : "touchescreen repair",
     "checkIsntaledApp" : "com.touchrepairscreen.touchscreentest",
-    "rankUnlock" : 0,
+    "rankUnlock" : 1,
     "lienGifApp" : "https://i.ibb.co/2nRWPjs/instaledapp.gif",
 	  
-    "blogTitle" : "Why smartwatches failed",
-    "blogdescription1" : "Smartwatches failed as a product category because the main industry players made a huge mistake. They started with consumer smartwatches and treated the enterprise as an afterthought. It should have been the other way around. Three years ago, smartwatches were expected to quickly evolve into a bona fide and thriving mainstream electronics category. Instead, they are mainly just wrist-based delivery systems for smartphone notifications, as well as fitness companions. (Other uses include news updates, phone calls, alarms, email, looking at pictures and videos, navigation, controlling music and home automation, according to NPD Group.",
-    "blogdescription2" : "The early success stories are crashing and burning. Motorola has exited the smartwatch market. Pebble shut down in December. Jawbone did the same in July. Intel, which had acquired the wearables firm Basis, shut down that company and exsted the smartwatch and fitness tracker space completely. Fitbit sold 2.3 million fewer devices last quarter compared with the same quarter a year ago, the company announced this month.",
-    "blogIV1" : "https://images.idgesg.net/images/article/2017/08/tambourhorizon-100733599-large.jpg",
-    "blogIV2" : "https://cdn.aarp.net/content/dam/aarp/home-and-family/family-and-friends/2020/09/1140-fitbit-sense.jpg"
+    "blogTitle" : "Améliorer votre français au quotidien",
+    "blogdescription1" : "On entend toujours que la première chose à faire pour apprendre le français est de partir dans un pays francophone ou de prendre des cours de français. Cependant, de nos jours, on n’a pas toujours le temps, ni l’argent, permettant de partir de chez soi ou de quitter son travail en faveur de l’apprentissage d’une langue. Voici donc quelques méthodes permettant aux plus motivés comme aux plus fainéants d’étudier et d’apprendre le français bien au chaud dans leur canapé au coin du feu.",
+    "blogdescription2" : "Bon ! J’ai une bonne et une mauvaise nouvelle ! Je commence par la mauvaise :Il n’y a pas de méthode miracle ! On rêve tous de la baguette magique mais elle n’existe pas ! Apprendre une langue étrangère prend du temps et demande des efforts. Mais n’oubliez pas qu’il y a la bonne nouvelle : Tout le monde est capable d’apprendre une langue étrangère On n’est jamais trop vieux ou trop bête !!! Il suffit de se lancer et de suivre quelques conseils. En effet, il existe des méthodes efficaces pour progresser.",
+    "blogIV1" : "https://jeretiens.net/wp-content/uploads/2020/11/comment_apprendre_le_francais_en_ligne.png",
+    "blogIV2" : "https://www.masteryourfrench.com/fr/wp-content/uploads/sites/2/2020/08/10-768x445.jpg"
 
   }
 }
